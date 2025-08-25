@@ -1,0 +1,13 @@
+cd "C:\Users\admin\Desktop\Team11_Final ML_OPs\demo_app_team11" 
+
+ python -m venv demo_app_team11
+
+demo_app_team11\Scripts\activate
+
+ 
+pip install -r requirements.txt
+
+
+python backend\backend.py
+
+python frontend\streamlit_app.py
