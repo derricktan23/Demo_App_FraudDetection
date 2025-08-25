@@ -1,4 +1,5 @@
 ## Readme for Credit Card Fraud Detection Demo
+<img width="1040" height="735" alt="image" src="https://github.com/user-attachments/assets/7c53cfd8-c383-4fb9-ac23-208c97e1396c" />
 
 ### Project Overview
 
